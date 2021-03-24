@@ -7,7 +7,7 @@ except:
         
         API_HASH = "1a6d26873111473f63ceaa8ba9037ce3"
         API_ID = 2054317
-        BOT_TOKEN = "1571459835:AAEM2HoN6ec8kNo0IckPUYUvYyigBmcapxM"
+        BOT_TOKEN = "1571459835:AAHRj9lzLIHZD_rTISGICqZGd6ABeqCmwF0"
         BASE_URL_OF_BOT = "nobitest001.com"
 
         # Edit the server port if you want to keep it default though.
